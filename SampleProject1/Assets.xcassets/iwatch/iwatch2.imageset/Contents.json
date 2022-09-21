@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Apple_watch-series7_hero_09142021_big.jpg.large.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Apple_watch-series7_hero_09142021_big.jpg.large-1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Apple_watch-series7_hero_09142021_big.jpg.large-2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
